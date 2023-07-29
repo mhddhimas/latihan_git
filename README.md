@@ -1,2 +1,2 @@
 # latihan_git
-Nama saya dhimas
+Nama saya M Dhimas Priyono
